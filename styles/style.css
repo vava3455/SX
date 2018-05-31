@@ -1,0 +1,15 @@
+h1{
+    font-family: MontserratRegular;
+    color: white;
+}
+body{
+    background-color:#7700FF;
+}
+input{
+    color: white;
+    font-family: MontserratLight;
+    background: linear-gradient(#7700FF, #0033FF);
+    border-radius: 10px;
+    border-style:  solid;
+    border-color: white;
+}
